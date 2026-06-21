@@ -252,3 +252,9 @@ I designed the zero-shot classification setup and specified the output requireme
 ## Demo
 
 The demo video is located [here](https://youtu.be/P5GfGQPKmcA)! 
+
+---
+
+## Jupyter Notebook Alternative
+
+The live shareable link is located [here](https://colab.research.google.com/drive/1jUX3Lf8CQ7hc068abdzaRQsu2ADHsyEA?usp=sharing)!
