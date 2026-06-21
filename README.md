@@ -246,3 +246,9 @@ I developed the project structure, selected Rocket League as the target communit
 **Instance 2: Groq classification prompt**
 
 I designed the zero-shot classification setup and specified the output requirements for the baseline model. Claude assisted in drafting the SYSTEM_PROMPT using the label definitions from planning.md. I reviewed the generated prompt to ensure it matched the project's labeling criteria and output format requirements before using it in Section 5 of the notebook.
+
+---
+
+## Demo
+
+The demo video is located [here](https://youtu.be/P5GfGQPKmcA)! 
